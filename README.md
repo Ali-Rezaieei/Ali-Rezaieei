@@ -70,7 +70,7 @@ ali    devops/sre              k8s, nomad, observability          ready
 - 🌐 Website — [Ali-Rezaieei.github.io](https://Ali-Rezaieei.github.io)
 - 💼 LinkedIn — [in/ali-rezaieei](https://www.linkedin.com/in/ali-rezaieei)
 - 📫 Email — alirezaieei01@gmail.com
-- 📍 Bonn, Germany · open to DevOps / SRE / Platform Engineering roles
+- 📍 Bonn, Germany
 
 <div align="center">
 <sub>Focused on reliable, observable, automated infrastructure.</sub>
