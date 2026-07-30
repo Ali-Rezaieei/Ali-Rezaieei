@@ -11,7 +11,7 @@
 
 **DevOps &amp; Site Reliability Engineer** · Bonn, Germany 🇩🇪
 
-Kubernetes · Nomad · Terraform · Observability · Go / Python
+DevOps / SRE Engineer | Kubernetes  · Azure . Observability (Grafana) . Building platform tooling for AI agents . Terraform · Nomad · Consul · Vault . GitOps | M.Sc. CS @ Uni Bonn
 
 [![Website](https://img.shields.io/badge/Website-0F6470?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-rezaieei.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-rezaieei)
@@ -35,8 +35,6 @@ ali    devops/sre              k8s, nomad, observability          ready
 ### 👋 About Me
 
 I am a DevOps and Site Reliability Engineer with 3+ years of experience operating production infrastructure on Kubernetes, Azure, and the HashiCorp stack. Throughout my career at top tech companies, I have built scalable, reliable, and observable systems, with a strong focus on CI/CD automation, infrastructure as code, and security. I have also built and deployed MCP servers that enable AI agents to query and interact directly with our infrastructure stack. I am currently finalizing my M.Sc. in Computer Science at the University of Bonn, where I focus on machine-learning-based networking and software systems.
-
-> 🌐 **Portfolio &amp; full CV → [ali-rezaieei.github.io/portfolio](https://ali-rezaieei.github.io/portfolio/)**
 
 ### 🛠️ Tech &amp; Tools
 
