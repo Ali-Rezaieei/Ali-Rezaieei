@@ -11,7 +11,7 @@
 
 **DevOps &amp; Site Reliability Engineer** · Bonn, Germany 🇩🇪
 
-DevOps / SRE Engineer | Kubernetes  · Azure . Observability (Grafana) . Building platform tooling for AI agents . Terraform · Nomad · Consul · Vault . GitOps | M.Sc. CS @ Uni Bonn
+DevOps / SRE Engineer | Kubernetes  · Azure . Observability (Grafana) . Building platform tooling for AI agents . Terraform · Nomad · Consul · Vault . GitOps . Platform Engineering| M.Sc. CS @ Uni Bonn
 
 [![Website](https://img.shields.io/badge/Website-0F6470?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-rezaieei.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-rezaieei)
