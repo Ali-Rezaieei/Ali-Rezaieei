@@ -11,7 +11,7 @@
 
 **DevOps &amp; Site Reliability Engineer** · Bonn, Germany 🇩🇪
 
-Kubernetes  · Azure . Observability (Grafana) . Building platform tooling for AI agents . Terraform · Nomad · Consul · Vault . GitOps . Platform Engineering 
+Kubernetes · Nomad · Terraform · Observability · Go / Python
 
 [![Website](https://img.shields.io/badge/Website-0F6470?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-rezaieei.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-rezaieei)
@@ -32,12 +32,9 @@ ali    devops/sre              k8s, nomad, observability          ready
        security                sentinel, defender, hardening      hardened
 ```
 
-### 🚀 What I do
+### 👋 About Me
 
-- **DevOps &amp; SRE Engineer** — building and operating production infrastructure on Kubernetes, Nomad, and Azure for AI-driven building-energy optimization.
-- I run **centralized observability** (Prometheus, Grafana, Loki, OpenTelemetry) across compute, databases, and security, and cut error-resolution time by ~20%.
-- I build **platform tooling**: an event-based Live Infrastructure Graph, an internal Go/Python deployment tool for Nomad, and **MCP servers** that let AI agents query infrastructure, docs, and tickets.
-- Currently finishing an **M.Sc. in Computer Science at the University of Bonn** — thesis on **machine-learning-based network traffic classification**.
+I am a DevOps and Site Reliability Engineer with 3+ years of experience operating production infrastructure on Kubernetes, Azure, and the HashiCorp stack. Throughout my career at top tech companies, I have built scalable, reliable, and observable systems, with a strong focus on CI/CD automation, infrastructure as code, and security. I have also built and deployed MCP servers that enable AI agents to query and interact directly with our infrastructure stack. I am currently finalizing my M.Sc. in Computer Science at the University of Bonn, where I focus on machine-learning-based networking and software systems.
 
 > 🌐 **Portfolio &amp; full CV → [ali-rezaieei.github.io/portfolio](https://ali-rezaieei.github.io/portfolio/)**
 
