@@ -11,7 +11,7 @@
 
 **DevOps &amp; Site Reliability Engineer** · Bonn, Germany 🇩🇪
 
-Kubernetes · Nomad · Terraform · Observability · Go / Python
+Kubernetes  · Azure . Observability (Grafana) . Building platform tooling for AI agents . Terraform · Nomad · Consul · Vault . GitOps . Platform Engineering 
 
 [![Website](https://img.shields.io/badge/Website-0F6470?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-rezaieei.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-rezaieei)
