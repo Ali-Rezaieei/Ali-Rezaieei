@@ -34,7 +34,7 @@ ali    devops/sre              k8s, nomad, observability          ready
 
 ### 🚀 What I do
 
-- **DevOps &amp; SRE Engineer @ Recogizer** — building and operating production infrastructure on Kubernetes, Nomad, and Azure for AI-driven building-energy optimization.
+- **DevOps &amp; SRE Engineer** — building and operating production infrastructure on Kubernetes, Nomad, and Azure for AI-driven building-energy optimization.
 - I run **centralized observability** (Prometheus, Grafana, Loki, OpenTelemetry) across compute, databases, and security, and cut error-resolution time by ~20%.
 - I build **platform tooling**: an event-based Live Infrastructure Graph, an internal Go/Python deployment tool for Nomad, and **MCP servers** that let AI agents query infrastructure, docs, and tickets.
 - Currently finishing an **M.Sc. in Computer Science at the University of Bonn** — thesis on **machine-learning-based network traffic classification**.
