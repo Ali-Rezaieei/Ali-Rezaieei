@@ -59,17 +59,6 @@ ali    devops/sre              k8s, nomad, observability          ready
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-### 📊 GitHub in numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Rezaieei&show_icons=true&hide_border=true&title_color=0F6470&icon_color=2DD4BF&theme=graywhite" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Rezaieei&layout=compact&hide_border=true&title_color=0F6470&theme=graywhite" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Ali-Rezaieei&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=0F6470" alt="streak" />
-
-</div>
-
 ### 📌 Featured projects
 
 | Project | What it is | Stack |
