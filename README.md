@@ -15,7 +15,7 @@ DevOps / SRE Engineer | Kubernetes  · Azure . Observability (Grafana) . Buildin
 
 [![Website](https://img.shields.io/badge/Website-0F6470?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-rezaieei.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-rezaieei)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezaieei01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s55areza@uni-bonn.de)
 
 <img src="https://komarev.com/ghpvc/?username=Ali-Rezaieei&label=Profile%20views&color=2DD4BF&style=flat" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Ali-Rezaieei?label=Followers&style=flat&color=2DD4BF" alt="followers" />
@@ -69,7 +69,7 @@ I am a DevOps and Site Reliability Engineer with 3+ years of experience operatin
 
 - 🌐 Website — [ali-rezaieei.github.io/portfolio](https://ali-rezaieei.github.io/portfolio/)
 - 💼 LinkedIn — [in/ali-rezaieei](https://www.linkedin.com/in/ali-rezaieei)
-- 📫 Email — alirezaieei01@gmail.com
+- 📫 Email — s55areza@uni-bonn.de
 - 📍 Bonn, Germany
 
 <div align="center">
