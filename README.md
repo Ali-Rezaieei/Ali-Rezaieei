@@ -61,10 +61,10 @@ I am a DevOps and Site Reliability Engineer with 3+ years of experience operatin
 | [ML for Network Traffic Classification](https://github.com/Ali-Rezaieei/ML_To_Support_Network_Traffic_Classification) | M.Sc. thesis — classifying network traffic with machine learning | Jupyter, Python |
 | [Memory Prediction System](https://github.com/Ali-Rezaieei/Memory-Prediction-System-Bachelor-Thesis) | B.Sc. thesis (19.5/20) — VM memory prediction agent | Go, Libvirt |
 | [ELK Stack Infrastructure](https://github.com/Ali-Rezaieei/elk-challenge) | Production-style ELK stack deployment and automation challenge | Terraform, Ansible, ELK |
+| [Monitoring System](https://github.com/Ali-Rezaieei/Monitoring-System) | Metrics monitoring dashboard | JavaScript |
 | [SRE Challenge](https://github.com/Ali-Rezaieei/sreChallenge) | Site-reliability engineering exercise | Go |
 | [Trip AI Agent](https://github.com/Ali-Rezaieei/Trip-AI-Agent) | AI agent for trip planning | Python |
 | [URL Shortener](https://github.com/Ali-Rezaieei/url_shortener) | Dockerized URL shortener deployed on Kubernetes | Go |
-| [Monitoring System](https://github.com/Ali-Rezaieei/Monitoring-System) | Metrics monitoring dashboard | JavaScript |
 
 ### 🤝 Let's connect
 
