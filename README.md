@@ -68,7 +68,6 @@ I am a DevOps and Site Reliability Engineer with 3+ years of experience operatin
 
 ### 🤝 Let's connect
 
-- 🌐 Website — [ali-rezaieei.github.io/portfolio](https://ali-rezaieei.github.io/portfolio/)
 - 💼 LinkedIn — [in/ali-rezaieei](https://www.linkedin.com/in/ali-rezaieei)
 - 📫 Email — s55areza@uni-bonn.de
 - 📍 Bonn, Germany
