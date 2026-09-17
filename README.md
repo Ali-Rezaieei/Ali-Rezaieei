@@ -13,7 +13,6 @@
 
 DevOps Engineer @ Recogizer | M.Sc. CS @ Uni Bonn
 
-[![Website](https://img.shields.io/badge/Website-0F6470?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-rezaieei.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-rezaieei)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s55areza@uni-bonn.de)
 
