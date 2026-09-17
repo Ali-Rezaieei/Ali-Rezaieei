@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&lines=DevOps+%26+Site+Reliability+Engineer;Kubernetes+%7C+Nomad+%7C+Terraform+%7C+Go;Observability%2C+Automation%2C+Platform+Tooling;M.Sc.+Computer+Science+%40+University+of+Bonn" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=2DD4BF&center=true&vCenter=true&width=720&lines=DevOps;M.Sc.+Computer+Science+%40+University+of+Bonn" alt="typing banner" />
 
 # Ali Rezaee
 
