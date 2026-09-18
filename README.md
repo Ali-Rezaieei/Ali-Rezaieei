@@ -33,7 +33,7 @@ ali    devops/sre              k8s, nomad, observability          ready
 
 ### 👋 About Me
 
-I am a DevOps and Site Reliability Engineer with 3+ years of experience operating production infrastructure across different cloud providers and technologies. Throughout my career at top tech companies, I have built scalable, reliable, and observable systems, with a strong focus on CI/CD automation, infrastructure as code, and security. I have also built and deployed MCP servers that enable AI agents to query and interact directly with our infrastructure stack. I am currently finalizing my M.Sc. in Computer Science at the University of Bonn.
+I am a DevOps Engineer with 3+ years of experience operating production infrastructure across different cloud providers and technologies. Throughout my career at top tech companies, I have built scalable, reliable, and observable systems, with a strong focus on CI/CD automation, infrastructure as code, and security. I have also built and deployed MCP servers that enable AI agents to query and interact directly with our infrastructure stack. I am currently finalizing my M.Sc. in Computer Science at the University of Bonn.
 
 ### 🛠️ Tech &amp; Tools
 
