@@ -61,6 +61,7 @@ I am a DevOps Engineer with 3+ years of experience operating production infrastr
 | [Memory Prediction System](https://github.com/Ali-Rezaieei/Memory-Prediction-System-Bachelor-Thesis) | B.Sc. thesis (19.5/20) — VM memory prediction agent | Go, Libvirt |
 | [ELK Stack Infrastructure](https://github.com/Ali-Rezaieei/elk-challenge) | Production-style ELK stack deployment and automation challenge | Terraform, Ansible, ELK |
 | [Monitoring System](https://github.com/Ali-Rezaieei/Monitoring-System) | Metrics monitoring dashboard | JavaScript |
+| [Value Alignment Benchmark](https://github.com/Ali-Rezaieei/Value_Alignment_Benchmark) | Value alignment benchmark for NLP | Python |
 | [SRE Challenge](https://github.com/Ali-Rezaieei/sreChallenge) | Site-reliability engineering exercise | Go |
 | [Trip AI Agent](https://github.com/Ali-Rezaieei/Trip-AI-Agent) | AI agent for trip planning | Python |
 | [URL Shortener](https://github.com/Ali-Rezaieei/url_shortener) | Dockerized URL shortener deployed on Kubernetes | Go |
